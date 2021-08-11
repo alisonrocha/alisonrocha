@@ -45,6 +45,8 @@
     </a>    
 </p>
 
+</br>
+
 ## Let's Connect :coffee:
 <p align="left">
 	<a href="https://github.com/alisonrocha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
