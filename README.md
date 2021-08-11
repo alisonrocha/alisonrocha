@@ -3,14 +3,15 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img
-    height="180em"
+<div>
+  <img align="left"
+     width="40%" height="180em"
     src="https://github-readme-stats.vercel.app/api?username=alisonrocha&show_icons=true&theme=nightowl"
     alt="alisonrocha"
   />
 	
-  <img height="180em"
+  <img align="center" 
+    width="33%" height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrocha&layout=compact&theme=nightowl"
     alt="alisonrocha"
   />
@@ -52,7 +53,7 @@
 	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="github-contribution-grid-snake.svg"/>
 </p>
   
