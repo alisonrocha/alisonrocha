@@ -3,22 +3,20 @@
 
 ## ⚡ GitHub Stats
 
-<p>
+<div align="center">
   <img
-    align="left" height="180em"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=alisonrocha&show_icons=true&theme=nightowl"
     alt="alisonrocha"
   />
 	
   <img height="180em"
-    align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrocha&layout=compact&theme=nightowl"
     alt="alisonrocha"
   />
-</p>
+</div>
 
-
-</br>
+&nbsp; 
 
 ## 🚀💻 Technologies & Tools
 <p align="left">  
