@@ -5,12 +5,12 @@
 
 <p>
   <img
-    align="left"
+    align="left" width="40%"
     src="https://github-readme-stats.vercel.app/api?username=alisonrocha&show_icons=true&theme=nightowl"
     alt="alisonrocha"
   />
 	
-  <img
+  <img width="30%"
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrocha&layout=compact&theme=nightowl"
     alt="alisonrocha"
