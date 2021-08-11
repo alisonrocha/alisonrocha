@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Alison Rocha </h1>
-<h3 align = "center"> Um eterno aprendiz. Animado para construir, desenvolver e criar. Atualmente trabalhando no desenvolvimento de Frontend.</h3>
+<h3 align = "center"> Um eterno aprendiz. Animado para construir, desenvolver e criar. Atualmente trabalhando como desenvolvendor Frontend e aprendendo Node.js.</h3>
 
 ## ⚡ GitHub Stats
 
