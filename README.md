@@ -42,12 +42,16 @@
     </a>    
 </p>
 
+&nbsp; 
+
 ## :coffee: Let's Connect 
 <p align="left">
 	<a href="https://github.com/alisonrocha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alison-rocha-dev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
+
+&nbsp; 
 
 <p align="left">
 <img src="github-contribution-grid-snake.svg"/>
