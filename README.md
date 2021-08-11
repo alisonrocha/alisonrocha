@@ -53,3 +53,8 @@
 	<a href="https://www.linkedin.com/in/alison-rocha-dev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
+
+<p align="center">
+<img src="github-contribution-grid-snake.svg"/>
+</p>
+  
