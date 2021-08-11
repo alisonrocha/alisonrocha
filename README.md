@@ -51,8 +51,6 @@
 	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-&nbsp; 
-
 <p align="left">
 <img src="github-contribution-grid-snake.svg"/>
 </p>
