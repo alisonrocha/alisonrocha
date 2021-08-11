@@ -2,7 +2,8 @@
 Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alisonrocha)](https://github.com/alisonrocha)
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-rocha-dev/)](https://www.linkedin.com/in/alison-rocha-dev/)
-(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![image](https://user-images.githubusercontent.com/17619206/129058204-83558235-4f53-4bff-b7b4-57affeb8d070.png)
+
 
 ### About me 
 
