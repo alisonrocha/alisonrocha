@@ -1,9 +1,6 @@
 <h1 align = "center"> Olá 👋, sou Alison Rocha </h1>
 <h3 align = "center"> Um eterno aprendiz. Animado para construir, desenvolver e criar. Atualmente trabalhando no desenvolvimento de Frontend.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-alisonrocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-rocha-dev/)](https://www.linkedin.com/in/alison-rocha-dev/)
-[![Instagram Badge](https://img.shields.io/badge/-alisonrocha-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rochaoff/?hl=pt-br)](https://instagram.com/rochaoff/)
-
 ## ⚡ GitHub Stats
 
 <p>
@@ -47,6 +44,12 @@
     </a>   
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    
+    </a>    
+</p>
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/alisonrocha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/alison-rocha-dev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
