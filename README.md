@@ -9,11 +9,9 @@
     src="https://github-readme-stats.vercel.app/api?username=alisonrocha&show_icons=true&theme=nightowl"
     alt="alisonrocha"
   />
-</p>
-
-<p>
+	
   <img
-    align="center"
+    align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrocha&layout=compact&theme=nightowl"
     alt="alisonrocha"
   />
@@ -47,8 +45,8 @@
     </a>    
 </p>
 
-### Let's Connect :coffee:
-<p align="center">
+## Let's Connect :coffee:
+<p align="left">
 	<a href="https://github.com/alisonrocha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alison-rocha-dev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/rochaoff/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
